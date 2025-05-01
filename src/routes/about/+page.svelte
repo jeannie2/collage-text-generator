@@ -19,7 +19,6 @@ export const load = () => {
   <div id="text-content">
     <h1>About</h1>
       <p>Welcome to the Collage Text Generator! This tool allows you to create your own text collages with customizable size for your next project. Download as an image with transparent background.</p>
-      <p>Whether you're designing for fun, creating unique artwork, or experimenting with typography, the Collage Text Generator is here to help you bring your ideas to life.</p>
   </div>
 </div>
 

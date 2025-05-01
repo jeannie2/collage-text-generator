@@ -4,7 +4,7 @@ Simple project to practice SvelteKit. Users can generate custom text collages fo
 
 ## Technologies
 
-This project was made using SvelteKit and TypeScript.
+This project was made using SvelteKit (TypeScript) and html2canvas.
 
 ## How to use
 
